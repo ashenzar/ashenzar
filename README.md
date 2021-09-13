@@ -11,7 +11,7 @@
 
 [<img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=ashenzar&theme=merko&show_icons=true"/>](https://metrics.lecoq.io/ashenzar?template=classic)
 
-### Skills 🏆
+### My skills 🏆
 
 - 🐍 Python
 - ☕ Java
