@@ -8,9 +8,7 @@
 \_ _/\_ _|_ _ _ _|
 ```
 - - -
-<div align="right">
-<a href="https://metrics.lecoq.io/ashenzar?template=classic"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=ashenzar&theme=merko&show_icons=true"/></a>
-</div>
+[<img width="60%" src="https://github-readme-stats.vercel.app/api?username=ashenzar&theme=merko&show_icons=true"/>](https://metrics.lecoq.io/ashenzar?template=classic)
 
 <ul>
 <li><i>learning python, rust, java...</i></li>
