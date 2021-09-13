@@ -1,20 +1,22 @@
-<p align="left">
-<pre><code>
+```
     _ _   _ _ _ _
    /   \ |       |
   /  _  \|_ _   /
  /  /_|  \ /  _/_
 |         /      |
 \_ _/\_ _|_ _ _ _|
-</code></pre>
-</p>
+```
 
-<a href="https://metrics.lecoq.io/ashenzar?template=classic"><img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=ashenzar&theme=merko&show_icons=true"></a>
+<div align="center">
+
+<a href="https://metrics.lecoq.io/ashenzar?template=classic"><img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=ashenzar&theme=merko&show_icons=true"/></a>
 
 <ul>
 <li><i>learning python, rust, java...</i></li>
 <li><i>working in the telegtam bot MeguRobot</i></li>
 </ul>
+
+</div>
 
 <!--
 ### Hi there 👋
