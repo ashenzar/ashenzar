@@ -1,3 +1,4 @@
+<p align="left">
 ```scala
     _ _   _ _ _ _
    /   \ |       |
@@ -6,11 +7,14 @@
 |         /      |
 \_ _/\_ _|_ _ _ _|
 ```
+<p>
 
-[<img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=ashenzar&theme=merko&show_icons=true">](https://metrics.lecoq.io/ashenzar?template=classic)
+<a href="https://metrics.lecoq.io/ashenzar?template=classic"><img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=ashenzar&theme=merko&show_icons=true"></a>
 
-- _learning python, rust, java..._
-- _working in megurobot_
+<ul>
+<li><i>learning python, rust, java...</i></li>
+<li><i>working in the telegtam bot MeguRobot</i></li>
+</ul>
 
 <!--
 ### Hi there 👋
