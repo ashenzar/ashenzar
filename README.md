@@ -1,4 +1,5 @@
-# I'm Ashen ✌️
+## I'm Ashen ✌️
+
 ```scala
     _ _   _ _ _ _
    /   \ |       |
@@ -8,7 +9,7 @@
 \_ _/\_ _|_ _ _ _|
 ```
 
-## Programming languages I know
+### Programming languages I know
 
 [<img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=ashenzar&theme=merko&show_icons=true"/>](https://metrics.lecoq.io/ashenzar?template=classic)
 
