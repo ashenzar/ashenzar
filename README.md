@@ -1,4 +1,4 @@
-### I'm Ashen ✌️
+### I'm Asael ✌️
 
 ```scala
     _ _   _ _ _ _
@@ -17,6 +17,10 @@
 - ☕ Java
 - ⚙️ Rust
 - ♦️ Ruby
+
+### Listening to 🎶
+
+[<img width="40%" src="https://lastfm-recently-played.vercel.app/api?user=ashenzar&count=2&header_style=none"/>](https://last.fm/user/ashenzar)
 
 <!--
 ### Hi there 👋
